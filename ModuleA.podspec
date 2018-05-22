@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
   moduleA swift module, swift test moduleA, build modulation
                    DESC
 
-  s.homepage     = "https://github.com/xiaohongjun0509/ModuleA"
+  s.homepage     = "https://www.baidu.com/"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
