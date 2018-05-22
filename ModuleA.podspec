@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ModuleA"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "swift test moduleA, build modulation"
 
   # This description is used to generate tags and improve search results.
@@ -131,7 +131,7 @@ Pod::Spec.new do |s|
   #  you can include multiple dependencies to ensure it works.
 
    s.requires_arc = true
-   s.swift_version = '>= 3.2'
+   s.swift_version = '>= 4.1'
 
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
    #s.dependency "JSONKit", "~> 1.4"
