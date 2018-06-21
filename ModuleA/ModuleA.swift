@@ -6,8 +6,8 @@
 //  Copyright © 2018年 xiaohongjun. All rights reserved.
 //
 
-public class ModuleA: NSObject {
-    public func addModuleA() {
+class ModuleA {
+    func addModuleA() {
         print("add moduleA")
     }
     xhj1

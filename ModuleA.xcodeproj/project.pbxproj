@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		B1AB767E20B4136C00720B7C /* ModuleA.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1AB767D20B4136C00720B7C /* ModuleA.swift */; };
-		B1AB768520B43A1100720B7C /* ContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1AB768420B43A1100720B7C /* ContainerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,7 +25,6 @@
 /* Begin PBXFileReference section */
 		B1AB767A20B4136C00720B7C /* libModuleA.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libModuleA.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1AB767D20B4136C00720B7C /* ModuleA.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModuleA.swift; sourceTree = "<group>"; };
-		B1AB768420B43A1100720B7C /* ContainerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +58,6 @@
 			isa = PBXGroup;
 			children = (
 				B1AB767D20B4136C00720B7C /* ModuleA.swift */,
-				B1AB768420B43A1100720B7C /* ContainerView.swift */,
 			);
 			path = ModuleA;
 			sourceTree = "<group>";
@@ -106,7 +103,6 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
-				Base,
 			);
 			mainGroup = B1AB767120B4136C00720B7C;
 			productRefGroup = B1AB767B20B4136C00720B7C /* Products */;
@@ -123,7 +119,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B1AB768520B43A1100720B7C /* ContainerView.swift in Sources */,
 				B1AB767E20B4136C00720B7C /* ModuleA.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -134,6 +134,6 @@ Pod::Spec.new do |s|
    s.swift_version = "4.1"
 
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
-  s.dependency "SnapKit"
+   #s.dependency "JSONKit", "~> 1.4"
 
 end
