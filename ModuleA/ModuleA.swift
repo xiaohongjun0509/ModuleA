@@ -11,4 +11,5 @@ public class ModuleA: NSObject {
         print("add moduleA")
     }
     xhj1
+    dev1
 }

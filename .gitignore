@@ -1,3 +1,5 @@
 
 ModuleA.xcodeproj/project.xcworkspace/xcuserdata/zero.xcuserdatad/UserInterfaceState.xcuserstate
 ModuleA.xcodeproj/xcuserdata/zero.xcuserdatad/xcschemes/xcschememanagement.plist
+*.xcuserstate
+*.plist
