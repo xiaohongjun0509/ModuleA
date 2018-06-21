@@ -10,4 +10,5 @@ public class ModuleA: NSObject {
     public func addModuleA() {
         print("add moduleA")
     }
+    dev1
 }
